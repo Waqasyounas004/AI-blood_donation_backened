@@ -1,0 +1,1 @@
+"""Application error types and the single JSON error envelope used by the API."""
